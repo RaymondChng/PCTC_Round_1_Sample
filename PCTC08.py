@@ -13,7 +13,6 @@ def getNum():
 
 num = getNum()
 
-print()
 print("\./")
 for i in range(num):
     print(".|.")
